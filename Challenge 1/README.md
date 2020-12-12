@@ -1,9 +1,8 @@
 # The Invitaion
 
-Khi mới bắt đầu với lập trình chắc hẳn các bạn đều được giới thiệu cũng như làm quen với ngôn ngữ lập trình C. 
+CLB ISP đã thành lập được 2 năm và sắp tới ngày sinh nhật CLB. 
 
-Tuy nhiên, còn rất nhiều điều thú vị xoay quanh ngôn ngữ lập trình này mà bạn có thể chưa biết đến.
+Tuy nhiên, bữa tiệc sinh nhật được tổ chức rất bí mật, chỉ những vị khách có mã vào cửa mới có thể vào. Hãy tìm mã vào cửa để có thể trà trộn vào.
 
-Hãy cùng ISP tìm hiểu nhé!!
+Nghe nói @nanh2606 là người in thiệp mời.
 
-[History Of C](https://github.com/ispclub/WeeklyChallenges/raw/main/Challenge%201/History_of_C.pdf)
